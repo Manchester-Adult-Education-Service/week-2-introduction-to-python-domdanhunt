@@ -12,7 +12,7 @@ print(f"Hello, {name}")
 print(f"{name} is {age} years old.")
 print(f"In 5 years, {name} will be {age} years old.")
 print(f"{name} really likes {food}.")
-print(f"{food}" is {name} 's favourite food!")
+print(f"{food} is {name} 's favourite food!")
 
 # This will just add an empty line for space
 # Please don't touch this
