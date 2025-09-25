@@ -64,3 +64,13 @@ print(f"{food.capitalize()} is {name}'s favourite food!")
 # git add Ex1_variables.py
 # git commit -m "Completed variables exericse"
 # git push origin main
+
+
+name = input("Hi there. What is your name?")
+age = int(input("And how old are you? "))
+food = input("Great. What is your favourite food? ")
+print(f"Hello {name.capitalize()}, it's nice to meet you")
+print(f"You're {age} years old? Practically a child!")
+print(f"Are you looking forward to being {age+1}?")
+print(f"And you love {food} too? You have great taste if I may say so myself")
+print(f"Nice to speak to you, {name.capitalize()}")
